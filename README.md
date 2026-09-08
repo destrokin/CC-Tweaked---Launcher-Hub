@@ -1,9 +1,10 @@
-This simple script create a nice gui menu for managing all your other Lua Scripts.
+<img width="1254" height="1254" alt="Corvus Purple" src="https://github.com/user-attachments/assets/d728de39-2a79-4dcb-a316-a21fb5186e78" />This simple script create a nice gui menu for managing all your other Lua Scripts.
 This script has many features for QOL and are listed below
   - Selection GUI
   - Settings Menu
   - Crash Logs
   - Automatic Lua Detection
+  - Floppy Disk Manager
 
 Whats so special?
 
@@ -18,6 +19,10 @@ What are the settings?
 
 Why crash logs?
   Well have you ever just had a script close on you so you have to run over the the computer and look at the output for what error it gave. Well this stores that for later use if you ever need to re open the error and see what went wrong. Also instead of your scripts just "Ending" your who pc. This will instead make it so it keeps the program running by running the Launcher as main and all other scripts inside a shell. Basically a minecraft VM
+
+What is Disk Manager?
+- simply insert a floppy disk and you can easily copy all code to it with a click of a button
+- or you can copy all code and text files from the floppy disk onto your computer
 
 Its just that simple, Run the program and let it do all the work. Select your script on screen and hit run.
 
