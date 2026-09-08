@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="Corvus Purple" src="https://github.com/user-attachments/assets/d728de39-2a79-4dcb-a316-a21fb5186e78" />This simple script create a nice gui menu for managing all your other Lua Scripts.
+This simple script create a nice gui menu for managing all your other Lua Scripts.
 This script has many features for QOL and are listed below
   - Selection GUI
   - Settings Menu
@@ -29,3 +29,7 @@ Its just that simple, Run the program and let it do all the work. Select your sc
 I recommend a size of 5x3 also you should rename the script to "startup" so it automatically launches when your computer turns on or a server restarts.
 
 Thats pretty much it. There are settings you can change in the code like Gui Scale but its already set to its smallest by default. Also gui scale increases by .50 so starting at .50 - 1 - 1.50 and so on.
+
+Image shown here is what the launcher looks like
+<img width="656" height="448" alt="image" src="https://github.com/user-attachments/assets/b660de4e-1304-4787-b911-1133799d09f0" />
+
