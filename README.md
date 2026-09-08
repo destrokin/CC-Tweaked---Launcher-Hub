@@ -31,5 +31,6 @@ I recommend a size of 5x3 also you should rename the script to "startup" so it a
 Thats pretty much it. There are settings you can change in the code like Gui Scale but its already set to its smallest by default. Also gui scale increases by .50 so starting at .50 - 1 - 1.50 and so on.
 
 Image shown here is what the launcher looks like
+ 
 <img width="656" height="448" alt="image" src="https://github.com/user-attachments/assets/b660de4e-1304-4787-b911-1133799d09f0" />
 
